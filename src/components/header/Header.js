@@ -6,9 +6,8 @@ import zurag from "./zurag.jpg";
 
 const Header = () => {
   return (
-    <div className="container">
+    <div className="headerContainer">
       <img src={zurag} alt="myZurag" className="zurag" />
-
       <div className="about">
         <p className="schoolName">
           МУИС-ХШУИС-Мэдээллийн технологи - III түвшин

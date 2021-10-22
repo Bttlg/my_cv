@@ -1,22 +1,24 @@
-.container {
+.headerContainer {
   display: flex;
   flex-direction: row;
-  height: 260px;
   width: 60%;
+  height: 20vw;
   justify-content: space-evenly;
   /* background-color: cadetblue; */
   background-image: linear-gradient(120deg, #d3cce3, #fff);
   border-bottom: solid 2px;
   border-color: black;
-  position: relative;
 }
 .zurag {
+  position: relative;
   margin-top: 3%;
   width: 27%;
-  height: 18.5vw;
+  height: 100%;
   border-radius: 2px;
 }
 .about {
+  display: flex;
+  flex-direction: column;
   font-family: "Oswald", sans-serif;
   width: 50%;
   margin-left: -7%;
@@ -24,7 +26,6 @@
 }
 .schoolName {
   font-family: "Merriweather", serif;
-
   margin-bottom: -9%;
   font-size: 1.2vw;
 }

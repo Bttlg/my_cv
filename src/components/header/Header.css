@@ -1,17 +1,17 @@
 .container {
   display: flex;
   flex-direction: row;
-  height: 250px;
+  height: 260px;
   width: 60%;
   justify-content: space-evenly;
   /* background-color: cadetblue; */
   background-image: linear-gradient(120deg, #d3cce3, #fff);
   border-bottom: solid 2px;
   border-color: black;
+  position: relative;
 }
 .zurag {
   margin-top: 3%;
-  position: relative;
   width: 27%;
   height: 18.5vw;
   border-radius: 2px;

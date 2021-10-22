@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Bttlg.github.io/my_cv",
-  "name": "my_cv",
+  "homepage": "https://Bttlg.github.io/cv_app",
+  "name": "cv_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

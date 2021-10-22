@@ -1,0 +1,83 @@
+.bodyContainer {
+  display: flex;
+  flex-direction: row;
+  width: 60%;
+  justify-content: space-between;
+  padding-top: 20px;
+  background-color: white;
+}
+.row-1 {
+  padding-left: 5%;
+  width: 47%;
+}
+.area {
+  font-family: "Roboto", sans-serif;
+  border-top: solid 2px;
+  padding-top: 20px;
+  font-weight: bold;
+  font-size: 1.6vw;
+  width: 68%;
+  margin-left: 7%;
+}
+ul {
+  width: 68%;
+}
+li {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.5px;
+  font-size: 1.1vw;
+  margin-top: 0.9%;
+}
+.row-2 {
+  width: 55%;
+}
+
+.contact {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 1.4vw;
+}
+
+.mobile {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2vw;
+}
+.email {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2vw;
+}
+.address {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.2vw;
+  margin-top: 30px;
+  width: 90%;
+}
+
+.schoolHistory {
+  font-family: "Roboto", sans-serif;
+  border-top: solid 2px;
+  padding-top: 20px;
+  font-weight: bold;
+  font-size: 1.6vw;
+  width: 100%;
+}
+.historyContainer {
+  width: 89%;
+  border-bottom: solid 2px;
+}
+.history {
+  margin-left: -5%;
+  width: 98%;
+}
+.nameSchool,
+.universityName {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.3vw;
+  font-weight: 500;
+  margin-top: -4%;
+}
+
+.universityName {
+  margin-top: 0;
+}

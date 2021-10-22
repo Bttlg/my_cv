@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: row;
   width: 60%;
-  height: 20vw;
+  height: 19vw;
   justify-content: space-evenly;
   /* background-color: cadetblue; */
   background-image: linear-gradient(120deg, #d3cce3, #fff);

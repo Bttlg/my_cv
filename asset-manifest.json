@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//name.github.io/projectName/static/css/main.20858135.chunk.css",
+    "main.js": "/http//name.github.io/projectName/static/js/main.3146361c.chunk.js",
+    "main.js.map": "/http//name.github.io/projectName/static/js/main.3146361c.chunk.js.map",
+    "runtime-main.js": "/http//name.github.io/projectName/static/js/runtime-main.eed85195.js",
+    "runtime-main.js.map": "/http//name.github.io/projectName/static/js/runtime-main.eed85195.js.map",
+    "static/js/2.01d98807.chunk.js": "/http//name.github.io/projectName/static/js/2.01d98807.chunk.js",
+    "static/js/2.01d98807.chunk.js.map": "/http//name.github.io/projectName/static/js/2.01d98807.chunk.js.map",
+    "static/js/3.9d6144dd.chunk.js": "/http//name.github.io/projectName/static/js/3.9d6144dd.chunk.js",
+    "static/js/3.9d6144dd.chunk.js.map": "/http//name.github.io/projectName/static/js/3.9d6144dd.chunk.js.map",
+    "index.html": "/http//name.github.io/projectName/index.html",
+    "static/css/main.20858135.chunk.css.map": "/http//name.github.io/projectName/static/css/main.20858135.chunk.css.map",
+    "static/js/2.01d98807.chunk.js.LICENSE.txt": "/http//name.github.io/projectName/static/js/2.01d98807.chunk.js.LICENSE.txt",
+    "static/media/zurag.0fab45fb.jpg": "/http//name.github.io/projectName/static/media/zurag.0fab45fb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eed85195.js",
+    "static/js/2.01d98807.chunk.js",
+    "static/css/main.20858135.chunk.css",
+    "static/js/main.3146361c.chunk.js"
+  ]
+}
